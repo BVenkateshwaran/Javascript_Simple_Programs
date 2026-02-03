@@ -1,5 +1,7 @@
 let n = 28;
+
 // ! Check if the number is a Perfect Number or not.
+// ?  A perfect number is a positive integer that is equal to the sum of its proper positive divisors, excluding the number itself.
 function isPerfect(n)
 {
     if (n<=1)
