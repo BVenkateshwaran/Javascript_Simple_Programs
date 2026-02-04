@@ -1,5 +1,9 @@
 let n = 12345;
 
+// ! Digital Sum of a number
+// ? The digital sum of a number is the sum of all its digits.
+// * For example, the digital sum of 12345 is 1 + 2 + 3 + 4 + 5 = 15.
+
 let sum=0;
 let l=0;
 let n1 = n;
