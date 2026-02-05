@@ -1,5 +1,9 @@
 let n = 7;
 
+// ! Check if a number is prime or not
+// ? A prime number is a natural number greater than 1 that cannot be formed by multiplying two smaller natural numbers. 
+// ? In other words, a prime number has exactly two distinct positive divisors: 1 and itself.
+
 function isPrime(n)
 {
     if(n<=1)
