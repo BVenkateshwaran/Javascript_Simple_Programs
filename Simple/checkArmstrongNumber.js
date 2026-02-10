@@ -1,5 +1,8 @@
 let a = 1634;
 
+// ! Armstrong Number
+
+// ? An Armstrong number is a number that is equal to the sum of its own digits each raised to the power of the number of digits.
 
 let n = a.toString()
 let a1 = a;
