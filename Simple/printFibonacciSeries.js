@@ -9,6 +9,7 @@ let n = 15;
 let first = 1,second = 1;
 
 console.log(first);
+
 console.log(second);
 
 let third = 0;
