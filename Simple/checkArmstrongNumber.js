@@ -8,7 +8,9 @@ let n = a.toString()
 
 let a1 = a;
 let l = n.length;
+
 console.log(`a = ${n} and length of ${n} = ${l}`);
+
 let c = 1,sum=0;
 while (a>0)
 {
