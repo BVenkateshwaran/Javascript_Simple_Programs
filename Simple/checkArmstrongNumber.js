@@ -5,6 +5,7 @@ let a = 1634;
 // ? An Armstrong number is a number that is equal to the sum of its own digits each raised to the power of the number of digits.
 
 let n = a.toString()
+
 let a1 = a;
 let l = n.length;
 console.log(`a = ${n} and length of ${n} = ${l}`);
