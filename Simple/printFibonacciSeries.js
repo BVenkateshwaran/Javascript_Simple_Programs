@@ -7,9 +7,7 @@ let n = 15;
 // ^ The first two numbers of the Fibonacci series are 0 and 1 and each subsequent number is the sum of the previous two numbers. 
 
 let first = 1,second = 1;
-
 console.log(first);
-
 console.log(second);
 
 let third = 0;
