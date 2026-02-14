@@ -1,5 +1,9 @@
 let d = 12;
 
+// ! Decimal to Binary
+
+// ? 12 = 1*2^3 + 1*2^2 + 0*2^1 + 0*2^0 = 1100
+
 function decimalToBinary(n)
 {
     let b = [];
