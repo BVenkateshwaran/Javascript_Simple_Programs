@@ -1,6 +1,9 @@
 // let a = 36985;
 let a = 5322338;
 
+// ! Xylum or Phloen Number
+// ? A Xylum number is a number that has the sum of its digits in odd positions equal to the sum of its digits in even positions.
+
 let s1 = 0;
 let s2 = 0;
 let a1 = a;
