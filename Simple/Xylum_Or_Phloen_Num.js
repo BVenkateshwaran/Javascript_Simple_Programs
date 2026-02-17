@@ -3,6 +3,8 @@ let a = 5322338;
 
 // ! Xylum or Phloen Number
 // ? A Xylum number is a number that has the sum of its digits in odd positions equal to the sum of its digits in even positions.
+// ? Ex : 36985 is a Xylum number because (3 + 9 + 5) = (6 + 8). 
+// ? 5322338 is a Phloen number because (5 + 2 + 3 + 8) != (3 + 2 + 3).
 
 let s1 = 0;
 let s2 = 0;
