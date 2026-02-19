@@ -21,6 +21,7 @@ while (a>9)
 }
 
 s1 = s1+a;
+
 console.log(`s1 = ${s1} and s2 = ${s2}`);
 if (s1==s2) {
     console.log(`The number ${a1} is a Xylum number`);
