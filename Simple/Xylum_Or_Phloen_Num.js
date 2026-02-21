@@ -10,6 +10,7 @@ let a = 5322338;
 let s1 = 0;
 let s2 = 0;
 let a1 = a;
+
 s1 = s1+a%10;
 a = Math.floor(a/10);
 console.log(`s1 : ${s1}, s2 : ${s2} and a : ${a}`);
